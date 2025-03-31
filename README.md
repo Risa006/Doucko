@@ -1,2 +1,2 @@
-# Dou-ko
+# Doucko
 Tento repo slouží jako materiály k doučování
